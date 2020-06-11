@@ -1,0 +1,18 @@
+html
+{
+    font-size: 16px !important;
+}
+
+body
+{
+    font-family: 'segoe ui light' !important ;
+}
+.news h5
+{
+    color: #e50000;
+    font-weight: bold;
+}
+.news a
+{
+    color: #ffffff;
+}
